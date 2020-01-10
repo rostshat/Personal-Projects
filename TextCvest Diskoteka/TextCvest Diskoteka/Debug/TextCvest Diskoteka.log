@@ -1,0 +1,3 @@
+﻿  TextCvest Diskoteka.cpp
+R:\CPP\Personal Projects\TextCvest Diskoteka\TextCvest Diskoteka\TextCvest Diskoteka.cpp(19,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextCvest Diskoteka.vcxproj -> R:\CPP\Personal Projects\TextCvest Diskoteka\Debug\TextCvest Diskoteka.exe
